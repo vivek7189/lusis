@@ -1,2 +1,2 @@
 # lusis
-It a repo not to si ideal
+Its a repo not to sit ideal
